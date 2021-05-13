@@ -7,7 +7,7 @@
 This project helps to understand and test the latest versions and plugins of angular and webpack in combination with angular-cli in order to integrate them into other projects.
 It is only slightly adapted to preserve the structure but also to be able to map projects of the repositories of inpercima.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
@@ -15,12 +15,12 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ### Angular CLI
 
-* `angular-cli 11.2.6` or higher
+* `angular-cli 12.0.0` or higher
 
 ### Node, npm or yarn
 
-* `node 12.19.0` or higher in combination with
-  * `npm 6.14.8` or higher or
+* `node 14.16.1` or higher in combination with
+  * `npm 6.14.12` or higher or
   * `yarn 1.22.5` or higher, used in this repository
 
 ## Getting started
@@ -49,7 +49,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
 
 ## Further help
 
