@@ -14,7 +14,7 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ### Angular CLI
 
-* `angular-cli 12.0.0` or higher
+* `angular-cli 12.0.3` or higher
 
 ### Node, npm or yarn
 
