@@ -1,15 +1,13 @@
 # AngularCli
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
-[![dependencies Status](https://david-dm.org/inpercima/angular-cli/status.svg)](https://david-dm.org/inpercima/angular-cli)
-[![devDependencies Status](https://david-dm.org/inpercima/angular-cli/dev-status.svg)](https://david-dm.org/inpercima/angular-cli?type=dev)
 
 This project helps to understand and test the latest versions and plugins of angular and webpack in combination with angular-cli in order to integrate them into other projects.
 It is only slightly adapted to preserve the structure but also to be able to map projects of the repositories of inpercima.
 
 An update in this repository is always creating an new angular project to see the full changes per version.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
 I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
@@ -17,7 +15,7 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ### Angular CLI
 
-* `angular-cli 13.1.2` or higher
+* `angular-cli 13.1.3` or higher
 
 ### Node, npm or yarn
 
