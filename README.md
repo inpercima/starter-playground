@@ -7,7 +7,7 @@ It is only slightly adapted to preserve the structure but also to be able to map
 
 An update in this repository is always creating an new angular project to see the full changes per version.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
@@ -15,7 +15,7 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ### Angular CLI
 
-* `angular-cli 13.2.6` or higher
+* `angular-cli 13.3.0` or higher
 
 ### Node, npm or yarn
 
@@ -33,7 +33,7 @@ cd start-with-angular-cli
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
