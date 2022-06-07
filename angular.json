@@ -101,6 +101,5 @@
         }
       }
     }
-  },
-  "defaultProject": "start-with-angular-cli"
+  }
 }
