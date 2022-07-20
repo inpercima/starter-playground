@@ -7,7 +7,7 @@ It is only slightly adapted to preserve the structure but also to be able to map
 
 An update in this repository is always creating an new angular project to see the full changes per version.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
@@ -15,7 +15,7 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ### Angular CLI
 
-* `angular-cli 14.0.6` or higher
+* `angular-cli 14.1.0` or higher
 
 ### Node, npm or yarn
 
