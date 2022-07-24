@@ -1,5 +1,5 @@
 {
-  "name": "start-with-vue-cli",
+  "name": "start-with-vue",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
