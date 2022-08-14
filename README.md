@@ -1,4 +1,4 @@
-# StartWithAngularCli
+# StartWithAngular
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 
@@ -7,7 +7,7 @@ It is only slightly adapted to preserve the structure but also to be able to map
 
 An update in this repository is always creating an new angular project to see the full changes per version.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
@@ -15,7 +15,7 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ### Angular CLI
 
-* `angular-cli 14.1.0` or higher
+* `angular-cli 14.1.2` or higher
 
 ### Node, npm or yarn
 
@@ -27,8 +27,8 @@ I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
 
 ```bash
 # clone project
-git clone https://github.com/inpercima/start-with-angular-cli
-cd start-with-angular-cli
+git clone https://github.com/inpercima/start-with-angular
+cd start-with-angular
 ```
 
 ## Development server
