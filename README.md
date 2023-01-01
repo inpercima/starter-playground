@@ -1,35 +1,6 @@
 # StartWithAngular
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
-
-This project helps to understand and test the latest versions and plugins of angular and webpack in combination with angular-cli in order to integrate them into other projects.
-It is only slightly adapted to preserve the structure but also to be able to map projects of the repositories of inpercima.
-
-An update in this repository is always creating an new angular project to see the full changes per version.
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
-
-I changed from npm to yarn with `ng config -g cli.packageManager yarn`.
-
-## Prerequisites
-
-### Angular CLI
-
-* `angular-cli 15.0.2` or higher
-
-### Node, npm or yarn
-
-* `node 18.10.0` or higher in combination with
-  * `npm 8.19.2` or higher or
-  * `yarn 1.22.19` or higher, used in this repository
-
-## Getting started
-
-```bash
-# clone project
-git clone https://github.com/inpercima/start-with-angular
-cd start-with-angular
-```
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
 
